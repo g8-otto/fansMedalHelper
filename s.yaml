@@ -4,7 +4,7 @@ name: fans-medal-helper
 access: "default"
 
 vars:
-    region: "cn-hangzhou"
+    region: "cn-hongkong"
     service:
         name: "fans-medal-helper-service"
         description: "B站粉丝牌助手"
